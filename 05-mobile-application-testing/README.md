@@ -14,6 +14,7 @@ The objective of this project was to verify mobile application functionality, pe
 
 - Created functional testing checklists.
 - Created regression testing checklists.
+- Tested the application on an Android emulator.
 - Tested Android application functionality.
 - Performed regression testing.
 - Verified application behavior in different scenarios.
