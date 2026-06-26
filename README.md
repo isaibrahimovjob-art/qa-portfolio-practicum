@@ -9,4 +9,4 @@ This repository contains my projects completed during the QA Engineer program at
 3. Web UI Testing
 4. API Testing
 5. Mobile Application Testing
-6. Graduation Project
+6. Comprehensive Application Testing
