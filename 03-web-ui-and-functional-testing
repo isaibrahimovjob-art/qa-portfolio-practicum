@@ -16,13 +16,14 @@ The objective of this project was to verify the user interface, validate applica
 - Tested page layout and interface elements.
 - Designed test cases for booking functionality.
 - Performed cross-browser testing.
-- Verified application behavior on different screen resolutions.
+- Verified application behavior at different screen resolutions using Chrome DevTools.
 - Reported and documented defects.
 - Linked checklists and test cases to related bug reports.
 
 ## Tools
 
 - Google Sheets
+- Chrome DevTools
 
 ## Project
 
