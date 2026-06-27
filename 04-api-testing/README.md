@@ -25,6 +25,18 @@ The objective of this project was to verify the REST API of an online store, val
 - Postman
 - Google Sheets
 
+## Results
+
+- Verified REST API request processing and response validation.
+- Tested positive and negative API scenarios using Postman.
+- Identified and documented API defects, linking them to related bug reports.
+
+## How to View
+
+Open the Google Sheets document using the link below.
+
+No installation is required
+
 ## Project
 
 View the project here:
