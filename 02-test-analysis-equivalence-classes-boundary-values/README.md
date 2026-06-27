@@ -24,6 +24,18 @@ The objective of this project was to analyze system requirements, design effecti
 
 - Google Sheets
 
+## Results
+
+- Analyzed system requirements and prepared test data.
+- Designed test cases using Equivalence Class Partitioning (ECP) and Boundary Value Analysis (BVA).
+- Documented identified defects and linked them to supporting evidence.
+
+## How to View
+
+Open the Google Sheets document using the link below.
+
+No installation is required.
+
 ## Project
 
 View the project here:
