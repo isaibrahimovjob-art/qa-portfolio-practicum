@@ -14,8 +14,8 @@ The objective of this project was to verify mobile application functionality, pe
 
 - Created functional testing checklists.
 - Created regression testing checklists.
-- Tested the application on an Android emulator.
-- Tested Android application functionality.
+- Tested Android application functionality on an Android emulator.
+- Performed regression testing.
 - Performed regression testing.
 - Verified application behavior in different scenarios.
 - Reported and documented mobile application defects.
@@ -24,6 +24,18 @@ The objective of this project was to verify mobile application functionality, pe
 
 - Android Emulator
 - Google Sheets
+
+## Results
+
+- Verified Android application functionality and regression scenarios.
+- Tested the application using an Android emulator and documented identified defects.
+- Prepared functional and regression testing documentation with related bug reports.
+
+## How to View
+
+Open the Google Sheets document using the link below.
+
+No installation is required.
 
 ## Project
 
