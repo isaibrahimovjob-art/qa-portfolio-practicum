@@ -19,6 +19,18 @@ The objective of this project was to retest previously reported defects, verify 
 
 - Google Sheets
 
+## Results
+
+- Successfully completed bug retesting and verification.
+- Verified bug fixes and updated bug statuses.
+- Prepared testing documentation and linked related bug reports.
+
+## How to View
+
+Open the Google Sheets document using the link below.
+
+No installation or additional software is required.
+
 ## Project
 
 View the project here:
