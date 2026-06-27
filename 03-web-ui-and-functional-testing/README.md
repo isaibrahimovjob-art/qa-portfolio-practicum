@@ -25,6 +25,18 @@ The objective of this project was to verify the user interface, validate applica
 - Google Sheets
 - Chrome DevTools
 
+## Results
+
+- Verified web application functionality and user interface behavior.
+- Performed cross-browser testing and validated responsive layouts.
+- Identified and documented UI and functional defects with supporting bug reports.
+
+## How to View
+
+Open the Google Sheets document using the link below.
+
+No installation is required.
+
 ## Project
 
 View the project here:
