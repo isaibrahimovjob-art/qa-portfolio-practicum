@@ -29,6 +29,20 @@ The objective of this project was to perform end-to-end testing of different app
 - Postman
 - Android Emulator
 
+## Results
+
+- Completed end-to-end testing of a web application, REST API, and Android mobile application.
+- Applied test design techniques, including Equivalence Class Partitioning (ECP) and Boundary Value Analysis (BVA).
+- Created checklists, test cases, validation tables, and bug reports.
+- Used Postman, Charles Proxy, Chrome DevTools, and Android Emulator during testing.
+- Prepared comprehensive testing documentation covering multiple application components.
+
+## How to View
+
+Open the Google Sheets document using the link below.
+
+No installation is required.
+
 ## Project
 
 View the project here:
