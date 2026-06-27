@@ -29,7 +29,7 @@ The objective of this project was to retest previously reported defects, verify 
 
 Open the Google Sheets document using the link below.
 
-No installation or additional software is required.
+No installation is required.
 
 ## Project
 
